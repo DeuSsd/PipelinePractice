@@ -1,9 +1,9 @@
+
 import pytest
 
 # Test cases to test Calulator methods
 # You always create  a child class derived from unittest.TestCase
 from entity.calculator import Calculator
-
 
 class TestCalculator:
     # setUp method is overridden from the parent class TestCase
