@@ -154,5 +154,6 @@ pytest Agent.HomeDirectory/tests/functional_tests --url http://web-service-calc.
 
 По итогу работы с пайплайнами появляется возможность добавить в свой проект данный status badge, позволяющий увидеть состояние пайплайна
 
-
 [![Build Status](https://dev.azure.com/alekseevap/ognev/_apis/build/status/DeuSsd.PipelinePractice?branchName=master)](https://dev.azure.com/alekseevap/ognev/_build/latest?definitionId=15&branchName=master)
+
+![Screenshot_31.png](screenshots\Screenshot_31.png)
