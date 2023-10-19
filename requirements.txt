@@ -20,6 +20,6 @@ sniffio==1.2.0
 sortedcontainers==2.4.0
 trio==0.20.0
 trio-websocket==0.9.2
-urllib3==1.26.9
+urllib3==1.26.18
 Werkzeug==2.1.2
 wsproto==1.1.0
